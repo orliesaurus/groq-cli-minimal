@@ -51,7 +51,7 @@ A minimal CLI tool to interact with Groq's AI models directly from your terminal
 3. ⚡ Highly Recommended bu totally Optional ⚡
    Create an alias for easier usage:
    ```bash
-   alias ask='noglob /Users/orlie/Projects/groq-cli-minimal/groqcli.sh'
+   alias ask='noglob /Users/USERNAME/Projects/groq-cli-minimal/groqcli.sh'
    ```
    Add this to your `~/.zshrc` to make it permanent.
 
